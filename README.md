@@ -16,7 +16,7 @@ Projeyi cloneladıktan sonra Visual Code Programınıda açınız
 
 Windows için & Linux için
 
-''' code
+'''
 cd patika-github
 code .
 '''
