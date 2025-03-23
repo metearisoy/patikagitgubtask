@@ -7,19 +7,19 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 
 ## Installation
 Öncelikle projeyi clonelayın.
-'''bash
+```bash
 git clone https://github.com/metearisoy/patikagitgubtask.git
-'''
+```
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Code Programınıda açınız
 
 Windows için & Linux için
 
-'''linux
-cd patika-github
+```linux
+cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
