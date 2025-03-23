@@ -17,7 +17,7 @@ Projeyi cloneladıktan sonra Visual Code Programınıda açınız
 Windows için & Linux için
 
 ```linux
-cd kodluyoruzilkrepo
+cd patika-github
 code .
 ```
 
